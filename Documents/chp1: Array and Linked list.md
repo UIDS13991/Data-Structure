@@ -41,10 +41,13 @@
   <img src = "Linkedlist_deletion.png">
 </details>
 
-- **چند نمونه مساله برای لیست پیوندی** <br>
+- **چند نمونه مساله برای لیست پیوندی** <br><br>
 <details>
   <summary> با دریافت کردن یک node که data آن عدد است این node را در جای منایب خود در لیست پیوندی sort شده قرار دهید.  </summary>
-  <img src = "Linkedlist_deletion.png">
+ ```
+ do sth
+ 
+ ```
 </details>
 
 
