@@ -66,7 +66,7 @@
 </details>
 
 <details>
-  <summary> با پیمایش بر روی یک لیست پیوندی سورت شده node هایی که دو بار تکرار شدند را حذف کنید.  </summary>
+  <summary> با پیمایش بر روی یک لیست پیوندی sort شده node هایی که دو بار تکرار شدند را حذف کنید.  </summary>
  <div dir="ltr">
   
  ```pseudocode
