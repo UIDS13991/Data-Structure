@@ -55,16 +55,19 @@
 
 <details>
   <summary> حذف کردن node از لیست پیوندی  </summary>
+    <div dir="rtl">
+        برای حذف یک `node` از لیست پیوندی کافیست اشاره گر `next` عنصر قبل از آن را به `node` بعد از آن اشاره دهیم تا آن `node` از زنجیره حذف شود
+    </div>
   <img src = "Linkedlist_deletion.png">
 </details>
 <br><br><br>
 
- 
+
  ### چند نمونه مساله برای لیست پیوندی <br><br>
 <details>
   <summary> با دریافت کردن یک newNode که data آن عدد است این newNode را در جای مناسب خود در لیست پیوندی sort شده صعودی قرار دهید.  </summary>
  <div dir="ltr">
-  
+
  ```pseudocode
  
  node tmp
@@ -77,15 +80,15 @@
  ```
  </div>
  برای مشاهده کد کامل می توانید لینک زیر را مشاهده کنید :
- 
+
  [Related Link](http://www.geeksforgeeks.org/given-a-linked-list-which-is-sorted-how-will-you-insert-in-sorted-way/#:~:text=Algorithm%3A,start%20and%20make%20it%20head)
- 
+
 </details>
 
 <details>
   <summary> با پیمایش بر روی یک لیست پیوندی sort شده node هایی که دو بار تکرار شدند را حذف کنید.  </summary>
  <div dir="ltr">
-  
+
  ```pseudocode
  
 itr = head
@@ -100,15 +103,15 @@ itr = itr->next
  ```
  </div>
  برای مشاهده کد کامل می توانید لینک زیر را مشاهده کنید :
- 
+
  [Related Link](https://www.geeksforgeeks.org/remove-duplicates-from-a-sorted-linked-list/)
- 
+
 </details>
 
 <details>
   <summary> بدون در نظر گرفتن حافظه اضافی و دریافت نشانه گر head یک لیست پیوندی آن لیست را برعکس کنید.  </summary>
  <div dir="ltr">
-  
+
  ```pseudocode
  
  previous = null
@@ -126,9 +129,9 @@ head = previous
  ```
  </div>
  برای مشاهده کد کامل می توانید لینک زیر را مشاهده کنید :
- 
+
  [Related Link](https://www.geeksforgeeks.org/reverse-a-linked-list/)
- 
+
 </details>
 
 
