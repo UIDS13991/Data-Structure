@@ -13,9 +13,8 @@
 
 ##### مثال یک گیف
 
-
+</div>
 ```
 if (isTrue)
   return "yes"
 ```
-</div>
