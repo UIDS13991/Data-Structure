@@ -29,9 +29,6 @@
 
 <details>
   <summary> اضافه کردن node به اواسط لیست پیوندی  </summary>
-    <p>
-برای اینکار نیاز است مانند شکل زیر اشاره‌گر `head` را به `node` جدید تغییر دهیم. همچنین اشاره‌گر `next` برای `head` جدید را به `head` قبلی متصل کنیم.
-    </p>
   <img src = "Linkedlist_insert_middle.png"><br>
 </details>
 
