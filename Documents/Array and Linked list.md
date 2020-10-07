@@ -29,4 +29,7 @@
 
 - **اضافه کردن `node` به آخر لیست پیوندی :** <br>
 <img src = "Linkedlist_insert_last.png">
+
+- **حذف کردن `node` از لیست پیوندی :** <br>
+<img src = "Linkedlist_deletion.png">
 </div>
