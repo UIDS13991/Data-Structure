@@ -24,6 +24,9 @@
 3- از اول تا آخر لیست زنجیره متصل بماند.<br>
 
 - اضافه کردن `node` به ابتدای لیست پیوندی : <br>
+<img src = "Linkedlist_insert_at_start.png">
 - اضافه کردن `node` به اواسط لیست پیوندی : <br>
+<img src = "Linkedlist_insert_middle.png">
 - اضافه کردن `node` به آخر لیست پیوندی : <br>
+<img src = "Linkedlist_insert_last.png">
 </div>
