@@ -34,6 +34,11 @@
 
 <details>
   <summary> اضافه کردن node به اواسط لیست پیوندی  </summary>
+
+<br>
+
+اگر بخواهیم `node` جدیدی (E) به وسط لیست پیوندی (بین B و C) اضافه کنیم، کافی‌ست اشاره‌گر `next` نود B را به E و همچنین اشاره‌گر `next` نود E را به C اشاره دهیم. (مانند شکل زیر)
+
   <img src = "Linkedlist_insert_middle.png"><br>
 </details>
 
