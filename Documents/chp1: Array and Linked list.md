@@ -47,8 +47,8 @@
 <details>
   <summary> با دریافت کردن یک newNode که data آن عدد است این newNode را در جای مناسب خود در لیست پیوندی sort شده قرار دهید.  </summary>
  
- ```
- 
+ ```pseudocode
+ do sth
  
  ```
 </details>
