@@ -65,6 +65,30 @@
  
 </details>
 
+<details>
+  <summary> با پیمایش بر روی یک لیست پیوندی سورت شده المان هایی که دو بار تکرار شدند را حذف کنید.  </summary>
+ <div dir="ltr">
+  
+ ```pseudocode
+ 
+itr = head
+While itr->next is not 0:
+if itr->data == itr->next->data:
+dup = itr->next
+itr->next = itr->next->next
+delete dup
+else
+itr = itr->next
+ 
+ ```
+ </div>
+ برای مشاهده کد کامل می توانید لینک زیر را مشاهده کنید :
+ 
+ [Related Link](https://www.geeksforgeeks.org/remove-duplicates-from-a-sorted-linked-list/)
+ 
+</details>
+
+
 
 
 </div>
