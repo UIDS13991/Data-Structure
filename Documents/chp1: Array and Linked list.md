@@ -23,6 +23,7 @@
 
 <details>
   <summary> اضافه کردن node به ابتدای لیست پیوندی  </summary>
+ <p>برای اینکار نیاز است مانند شکل زیر اشاره‌گر headرا به node جدید تغییر دهیم. همچنین اشاره‌گر next باری ead جدید را به head قبلی ماصل کنیم.  </p>
   <img src = "Linkedlist_insert_at_start.png"> <br>
 </details>
 
