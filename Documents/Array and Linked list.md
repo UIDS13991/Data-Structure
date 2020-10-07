@@ -22,7 +22,7 @@
 3- از اول تا آخر لیست زنجیره متصل بماند.<br>
 
 <details>
-  <summary> **اضافه کردن `node` به ابتدای لیست پیوندی :**</summary>
+  <summary> **اضافه کردن `node` به ابتدای لیست پیوندی :** </summary>
   <img src = "Linkedlist_insert_at_start.png"> <br>
 </details>
 - **اضافه کردن `node` به ابتدای لیست پیوندی :**<br>
