@@ -21,6 +21,10 @@
 2- اشاره گر `next` آخرین `node` به `null` اشاره کند.<br>
 3- از اول تا آخر لیست زنجیره متصل بماند.<br>
 
+<details>
+  <summary> **اضافه کردن `node` به ابتدای لیست پیوندی :**</summary>
+  <img src = "Linkedlist_insert_at_start.png"> <br>
+</details>
 - **اضافه کردن `node` به ابتدای لیست پیوندی :**<br>
 <img src = "Linkedlist_insert_at_start.png"> <br>
 
