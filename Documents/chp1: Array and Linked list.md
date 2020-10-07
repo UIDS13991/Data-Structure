@@ -52,7 +52,7 @@
  
  node * tmp
  tmp = head
- while tmp.data < newNode.data :
+ while tmp.next.data < newNode.data :
       tmp = tmp.next
  newNode.next = tmp.next
  tmp.next = newNode.next
