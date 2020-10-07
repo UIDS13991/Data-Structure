@@ -23,6 +23,7 @@
 
 - **اضافه کردن `node` به ابتدای لیست پیوندی :**<br>
 <img src = "Linkedlist_insert_at_start.png"> <br>
+![] ("Linkedlist_insert_at_start.png"= 300x200) <br>
 
 - **اضافه کردن `node` به اواسط لیست پیوندی :** <br>
 <img src = "Linkedlist_insert_middle.png"><br>
