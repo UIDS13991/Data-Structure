@@ -24,7 +24,7 @@
 <details>
   <summary> اضافه کردن node به ابتدای لیست پیوندی  </summary>
 
-برای اینکار نیاز است مانند شکل زیر اشاره‌گر `head` را به `node` جدید تغییر دهیم. همچنین اشاره‌گر `next` برای `node` جدید را به `head` متصل کنیم.
+برای اینکار نیاز است مانند شکل زیر اشاره گر `head` را به `node` جدید تغییر دهیم. همچنین اشاره گر `next` برای `node` جدید را به `head` متصل کنیم.
 
   <img src = "Linkedlist_insert_at_start.png"> <br>
 </details>
@@ -36,6 +36,8 @@
 
 <details>
   <summary> اضافه کردن node به آخر لیست پیوندی  </summary>
+برای این کار باید مانند شکل زیر اشاره گر next مربوط به node آخر فعلی را به node جدید وصل کرده و اشاره گر next مربوط به node جدید را به null متصل کنیم.
+	
   <img src = "Linkedlist_insert_last.png">
 </details>
 
