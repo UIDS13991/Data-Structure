@@ -59,8 +59,9 @@
  
  ```
  </div>
+ برای مشاهده کد کامل می توانید لینک روبرو را مشاهده کنید : <br>
  
-  [Related Link!](http://www.geeksforgeeks.org/given-a-linked-list-which-is-sorted-how-will-you-insert-in-sorted-way/#:~:text=Algorithm%3A,start%20and%20make%20it%20head)برای مشاهده کد کامل می توانید لینک روبرو را مشاهده کنید :
+  [Related Link!](http://www.geeksforgeeks.org/given-a-linked-list-which-is-sorted-how-will-you-insert-in-sorted-way/#:~:text=Algorithm%3A,start%20and%20make%20it%20head)
  
 </details>
 
