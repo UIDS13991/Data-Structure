@@ -58,8 +58,10 @@
  tmp.next = newNode.next
  
  ```
-  [Related Link!](http://www.geeksforgeeks.org/given-a-linked-list-which-is-sorted-how-will-you-insert-in-sorted-way/#:~:text=Algorithm%3A,start%20and%20make%20it%20head)
  </div>
+ 
+  [Related Link!](http://www.geeksforgeeks.org/given-a-linked-list-which-is-sorted-how-will-you-insert-in-sorted-way/#:~:text=Algorithm%3A,start%20and%20make%20it%20head)برای مشاهده کد کامل می توانید لینک روبرو را مشاهده کنید :
+ 
 </details>
 
 
