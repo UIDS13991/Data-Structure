@@ -56,6 +56,8 @@
 <details>
   <summary> حذف کردن node از لیست پیوندی  </summary>  
 	
+	<br>
+	
 برای حذف یک `node` از لیست پیوندی کافیست اشاره گر `next` عنصر قبل از آن را به `node` بعد از آن اشاره دهیم تا آن `node` از زنجیره حذف شود
   <img src = "Linkedlist_deletion.png">
 </details>
