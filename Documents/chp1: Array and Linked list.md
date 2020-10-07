@@ -45,16 +45,17 @@
  
  ### چند نمونه مساله برای لیست پیوندی <br><br>
 <details>
-  <summary> با دریافت کردن یک newNode که data آن عدد است این newNode را در جای مناسب خود در لیست پیوندی sort شده قرار دهید.  </summary>
+  <summary> با دریافت کردن یک newNode که data آن عدد است این newNode را در جای مناسب خود در لیست پیوندی sort شده صعودی قرار دهید.  </summary>
  <div dir="ltr">
   
  ```pseudocode
  
  node * tmp
- temp = head
+ tmp = head
  while tmp.data < newNode.data :
       tmp = tmp.next
-       
+ newNode.next = tmp.next
+ tmp.next = newNode.next
  
  ```
  </div>
