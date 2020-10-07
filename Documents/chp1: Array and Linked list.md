@@ -88,6 +88,33 @@ itr = itr->next
  
 </details>
 
+<details>
+  <summary> بدون در نظر گرفتن حافظه اضافی و دریافت نشانه گر head یک لیست پیوندی آن لیست را برعکس کنید.  </summary>
+ <div dir="ltr">
+  
+ ```pseudocode
+ 
+ previous = null
+current = head
+next = null
+while(current != null)
+{
+	next = current.next
+	current.next = previous
+	previous = current
+	current = next
+}
+head = previous
+
+ ```
+ </div>
+ برای مشاهده کد کامل می توانید لینک زیر را مشاهده کنید :
+ 
+ [Related Link](https://www.geeksforgeeks.org/reverse-a-linked-list/)
+ 
+</details>
+
+
 
 
 
