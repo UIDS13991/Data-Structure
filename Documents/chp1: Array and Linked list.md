@@ -57,9 +57,8 @@
  newNode.next = tmp.next
  tmp.next = newNode.next
  
- [Related Link!](http://www.geeksforgeeks.org/given-a-linked-list-which-is-sorted-how-will-you-insert-in-sorted-way/#:~:text=Algorithm%3A,start%20and%20make%20it%20head)
- 
  ```
+  [Related Link!](http://www.geeksforgeeks.org/given-a-linked-list-which-is-sorted-how-will-you-insert-in-sorted-way/#:~:text=Algorithm%3A,start%20and%20make%20it%20head)
  </div>
 </details>
 
