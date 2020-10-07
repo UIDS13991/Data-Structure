@@ -22,18 +22,24 @@
 3- از اول تا آخر لیست زنجیره متصل بماند.<br>
 
 <details>
-  <summary> **اضافه کردن `node` به ابتدای لیست پیوندی :** </summary>
+  <summary> اضافه کردن `node` به ابتدای لیست پیوندی : </summary>
   <img src = "Linkedlist_insert_at_start.png"> <br>
 </details>
-- **اضافه کردن `node` به ابتدای لیست پیوندی :**<br>
-<img src = "Linkedlist_insert_at_start.png"> <br>
 
-- **اضافه کردن `node` به اواسط لیست پیوندی :** <br>
-<img src = "Linkedlist_insert_middle.png"><br>
+<details>
+  <summary> اضافه کردن `node` به اواسط لیست پیوندی : </summary>
+  <img src = "Linkedlist_insert_middle.png"><br>
+</details>
 
-- **اضافه کردن `node` به آخر لیست پیوندی :** <br>
-<img src = "Linkedlist_insert_last.png">
+<details>
+  <summary> اضافه کردن `node` به آخر لیست پیوندی : </summary>
+  <img src = "Linkedlist_insert_last.png">
+</details>
 
-- **حذف کردن `node` از لیست پیوندی :** <br>
-<img src = "Linkedlist_deletion.png">
+<details>
+  <summary> حذف کردن `node` از لیست پیوندی : </summary>
+  <img src = "Linkedlist_deletion.png">
+</details>
+
+
 </div>
