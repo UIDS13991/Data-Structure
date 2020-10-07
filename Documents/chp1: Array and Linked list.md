@@ -50,12 +50,14 @@
   
  ```pseudocode
  
- node * tmp
+ node tmp
  tmp = head
  while tmp.next.data < newNode.data :
       tmp = tmp.next
  newNode.next = tmp.next
  tmp.next = newNode.next
+ 
+ RelatedLink: https://www.geeksforgeeks.org/given-a-linked-list-which-is-sorted-how-will-you-insert-in-sorted-way/#:~:text=Algorithm%3A,start%20and%20make%20it%20head.
  
  ```
  </div>
