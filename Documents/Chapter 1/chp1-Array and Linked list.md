@@ -104,7 +104,7 @@ While itr->next is not 0:
     itr->next = itr->next->next
     delete dup
   else
-itr = itr->next
+    itr = itr->next
  
  ```
  </div>
