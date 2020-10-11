@@ -69,9 +69,6 @@
   <img src = "Linkedlist_deletion.png">
 </details>
 
-
-
-
  ### چند نمونه مساله برای لیست پیوندی <br><br>
 <details>
   <summary> با دریافت کردن یک newNode که data آن عدد است این newNode را در جای مناسب خود در لیست پیوندی sort شده صعودی قرار دهید.  </summary>
