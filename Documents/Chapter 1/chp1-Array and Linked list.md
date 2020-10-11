@@ -99,11 +99,11 @@
  
 itr = head
 While itr->next is not 0:
-if itr->data == itr->next->data:
-dup = itr->next
-itr->next = itr->next->next
-delete dup
-else
+  if itr->data == itr->next->data:
+    dup = itr->next
+    itr->next = itr->next->next
+    delete dup
+  else
 itr = itr->next
  
  ```
