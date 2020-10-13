@@ -24,14 +24,14 @@
 node tmp
 tmp = head
 
-if head.data < newNode.data :
+if head.data > newNode.data :
     newNode.next = head
     head = newNode
 else:
     while tmp.next.data < newNode.data :
         tmp = tmp.next
     newNode.next = tmp.next
-    tmp.next = newNode.next
+    tmp.next = newNode
  
  ```
  </div>
