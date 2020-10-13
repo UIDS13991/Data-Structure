@@ -22,3 +22,45 @@ if (isTrue)
   return "yes"
   
 ```
+
+ ```pseudocode
+ 
+ node tmp
+ tmp = head
+ while tmp.next.data < newNode.data :
+      tmp = tmp.next
+ newNode.next = tmp.next
+ tmp.next = newNode.next
+# TODO
+ 
+ ```
+ 
+```pseudocode
+ 
+itr = head
+While itr->next is not 0:
+  if itr->data == itr->next->data:
+    dup = itr->next
+    itr->next = itr->next->next
+    delete dup
+  else
+    itr = itr->next
+# TODO
+ 
+ ```
+ 
+ ```pseudocode
+ 
+ previous = null
+current = head
+next = null
+while(current != null)
+{
+	next = current.next
+	current.next = previous
+	previous = current
+	current = next
+}
+head = previous
+# TODO
+ ```
