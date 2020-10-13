@@ -21,7 +21,17 @@
 
  ```pseudocode
  
-# TODO
+node tmp
+tmp = head
+
+if head.data < newNode.data :
+    newNode.next = head
+    head = newNode
+else:
+    while tmp.next.data < newNode.data :
+        tmp = tmp.next
+    newNode.next = tmp.next
+    tmp.next = newNode.next
  
  ```
  </div>
@@ -34,7 +44,14 @@
 
  ```pseudocode
  
-# TODO
+itr = head
+While itr->next is not 0:
+    if itr->data == itr->next->data:
+        dup = itr->next
+        itr->next = itr->next->next
+        delete dup
+    else:
+        itr = itr->next
  
  ```
  </div>
@@ -47,7 +64,17 @@
 
  ```pseudocode
  
-# TODO
+previous = null
+current = head
+next = null
+while(current != null)
+{
+	next = current.next
+	current.next = previous
+	previous = current
+	current = next
+}
+head = previous
 
  ```
 
