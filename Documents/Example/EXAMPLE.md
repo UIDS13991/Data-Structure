@@ -31,7 +31,7 @@ if (isTrue)
       tmp = tmp.next
  newNode.next = tmp.next
  tmp.next = newNode.next
-# TODO
+
  
  ```
  
@@ -45,7 +45,7 @@ While itr->next is not 0:
     delete dup
   else
     itr = itr->next
-# TODO
+
  
  ```
  
@@ -62,5 +62,5 @@ while(current != null)
 	current = next
 }
 head = previous
-# TODO
+
  ```
