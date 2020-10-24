@@ -6,11 +6,9 @@
 
 ![des](http://s17.picofile.com/file/8411726900/111.png)
 
-     
+    
 
-توجه: نامساوی مربوط به f(n)∈Θ(g(n))f(n)\in\Theta(g(n))f(n)∈Θ(g(n)) به شرح زیر است:
-
-![des](http://s17.picofile.com/file/8411726926/222.png)
+![des](http://s16.picofile.com/file/8411727292/222.png)
 
 
 </div>
