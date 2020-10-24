@@ -1,8 +1,9 @@
 <div dir="rtl">
+# سوال 1 - الگوریتم پیچیده
 پیچیدگی زمانی الگوریتم زیر را تحلیل کنید.
 
 
-    <div dir="rtl">
+    <div dir="ltr">
 ```
 function f(n):
     int sum = 0
