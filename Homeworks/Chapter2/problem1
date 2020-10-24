@@ -2,7 +2,7 @@
 پیچیدگی زمانی الگوریتم زیر را تحلیل کنید.
 
 
-<div dir="rtl">
+    <div dir="rtl">
 ```
 function f(n):
     int sum = 0
@@ -12,6 +12,6 @@ function f(n):
                 sum += i*j*k
     return sum
 ```
-</div>
+    </div>
 
 </div>
