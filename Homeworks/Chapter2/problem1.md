@@ -1,9 +1,12 @@
 <div dir="rtl">
-# سوال 1 - الگوریتم پیچیده
+
+سوال 1 - الگوریتم پیچیده #
+
 پیچیدگی زمانی الگوریتم زیر را تحلیل کنید.
 
 
     <div dir="ltr">
+    
 ```
 function f(n):
     int sum = 0
@@ -13,6 +16,7 @@ function f(n):
                 sum += i*j*k
     return sum
 ```
+
     </div>
 
 </div>
